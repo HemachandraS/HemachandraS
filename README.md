@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [xyz.comm](xyz.comm)
+
 
 - 📝 I regularly write articles on [https://medium.com/@hemachandrahegde2812](https://medium.com/@hemachandrahegde2812)
 

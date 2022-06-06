@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hemachandrahegde2812](https://medium.com/@hemachandrahegde2812)
 
-- 💬 Ask me about **ReactJS, JavaScript, MongoDB, Express, Node.js, HTML and CSS**
+- 💬 Ask me about **ReactJS, JavaScript, MongoDB, Express, Node.js, HTML, CSS, Redux and Redux toolkit .**
 
 - 📫 How to reach me **hemachandrahegde2812@gmail.com**
 
